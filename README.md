@@ -1,5 +1,7 @@
 # Movie Review App
 
+![Video Preview](https://github.com/Romilj012/Movie-Review-App/blob/main/DemoVideo.gif)
+
 This is a Movie Review App that allows users to browse and review movies. It is built using Firebase for user authentication, storage, and database functionality. The app fetches movie information from an API and displays it in a master/detail flow, along with user reviews retrieved from Firebase.
 
 ## Features
@@ -43,10 +45,6 @@ To see a demo of the app in action, check out the [demo video](link-to-demo-vide
 ## Feedback and Contributions
 
 Feedback and contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue in the GitHub repository. You can also submit pull requests for bug fixes or new features.
-
-## License
-
-This project is licensed under the [MIT License](link-to-license-file). Feel free to use and modify the code according to the terms of the license.
 
 ## Acknowledgements
 
